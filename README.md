@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel Framework**
 
-- 💬 Ask me about **HTML, CSS, Javascript and PHP Vanilla, Vue.js**
+- 💬 Ask me about **HTML, CSS, Javascript, PHP and Vue.js**
 
 - 📫 How to reach me **castrogiovanni.alfredo03@gmail.com**
 
