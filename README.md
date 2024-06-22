@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alfredo Castrogiovanni</h1>
 <h3 align="center">A Jr. Full Stack Web Developer</h3>
 
-<p>Sono un ragazzo di 20 anni, fin da piccolo appassionato di tecnologia, vista come una valvola di sfogo e uno strumento con cui esprimermi al meglio. Durante le scuole superiori ho avuto modo di appassionarmi allo sviluppo web con gli argomenti studiati a scuola. Subito dopo aver preso il diploma ho frequentato un corso di laurea di informatica dal quale ho compreso di voler intraprendere un percorso piu' pratico e funzionale. Da cio', ho scelto di iscrivermi al corso di boolean che mi ha permesso di acquisire le competenze adeguate alla creazione di applicazioni web.</p>
+<p>Sono un ragazzo di 20 anni, fin da piccolo appassionato di tecnologia, vista come una valvola di sfogo e uno strumento con cui esprimermi al meglio. Durante le scuole superiori ho avuto modo di appassionarmi allo sviluppo web con gli argomenti studiati a scuola. Subito dopo aver preso il diploma ho frequentato un corso di laurea di informatica dal quale ho compreso di voler intraprendere un percorso piu' pratico e funzionale. Da cio', ho scelto di iscrivermi al corso di boolean che mi ha permesso di acquisire le competenze adeguate alla creazione di applicazioni web.Successivamente ho avuto la possibilita’ di partecipare alla selezione per il corso di java developer che mi ha permesso di ampliare le mie conoscenze.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
