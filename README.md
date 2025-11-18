@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sono un ragazzo di 20 anni, fin da piccolo appassionato di tecnologia, vista come una valvola di sfogo e uno strumento con cui esprimermi al meglio. La tecnologia mi ha permesso di aprirmi al mondo e mi rende vivo ogni giorno alimentando la mia curiosità. Per questo motivo ho deciso di intraprendere un percorso da sviluppatore web mettendo tutta la mia curiosità e energia per migliorare me stesso e le mie competenze.
+Sono un ragazzo di 22 anni, fin da piccolo appassionato di tecnologia, vista come una valvola di sfogo e uno strumento con cui esprimermi al meglio. La tecnologia mi ha permesso di aprirmi al mondo e mi rende vivo ogni giorno alimentando la mia curiosità. Per questo motivo ho deciso di intraprendere un percorso da sviluppatore web mettendo tutta la mia curiosità e energia per migliorare me stesso e le mie competenze.
 
 
 # 💻 Tech Stack:
